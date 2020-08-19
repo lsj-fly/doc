@@ -1,6 +1,6 @@
 import urllib.request
 import re
-
+#this is a .py
 url = "http://news.baidu.com/"
 
 # 伪装浏览器用户
