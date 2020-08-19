@@ -1,3 +1,4 @@
+#for oled.c
 a=1
 obj=main.o oled.o
 exe:$(obj)
